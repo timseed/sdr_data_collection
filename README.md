@@ -17,4 +17,4 @@ There are a few data files here, and 3 example python scripts to process the dat
 
   - Extract Ship Names [Extract Ship Names](./AIS/ship_name.py)
   - Create a GeoJSON output [geojson example](./AIS/geojson.py) 
-  - Plot your AIS antenna receiving range [Ship position extract](./AIS/Ais Ship position extract/Ais Ship position extract.md)
+  - Plot your AIS antenna receiving range [Ship position extract](./AIS/ship_position_extract/ship_position_extract.md)
